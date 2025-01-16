@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hi,%20I'm%20Dong%20O&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ㅅㄷㄴㅅ </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 작성중.. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 작성중.. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
