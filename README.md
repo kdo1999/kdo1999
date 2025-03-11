@@ -19,6 +19,8 @@
           <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
         <img src="https://img.shields.io/badge/actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
         <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
 
 
           </div>
